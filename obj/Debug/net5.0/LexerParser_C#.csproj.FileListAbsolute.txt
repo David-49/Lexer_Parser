@@ -1,0 +1,16 @@
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.exe
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.deps.json
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.runtimeconfig.json
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.runtimeconfig.dev.json
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.dll
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\ref\LexerParser_C#.dll
+D:\dev no save\CSharp\LexerParser_C#\bin\Debug\net5.0\LexerParser_C#.pdb
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.csproj.AssemblyReference.cache
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.AssemblyInfoInputs.cache
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.AssemblyInfo.cs
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.csproj.CoreCompileInputs.cache
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.dll
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\ref\LexerParser_C#.dll
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.pdb
+D:\dev no save\CSharp\LexerParser_C#\obj\Debug\net5.0\LexerParser_C#.genruntimeconfig.cache
